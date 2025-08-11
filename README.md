@@ -2,7 +2,7 @@
 
 This is a Figma project I designed for a travel agency app, focusing on a smooth booking experience.
 
-🔗 **View the prototype here:** [https://www.figma.com/design/rrmwrwqlgDRyq6juSkQTjC/Sara-Amiri---Travel-Agency-App?node-id=77-4&t=PxT1jL46ThctmcFb-1]
+🔗 **Figma Prototype:** [View Here](:https://www.figma.com/design/rrmwrwqlgDRyq6juSkQTjC/Sara-Amiri---Travel-Agency-App?node-id=77-4&p=f&t=My0KjEalbRjltZ1t-0)
 
 ## Project Description
 The Travel Agency App is a modern and intuitive mobile and web interface designed in Figma to streamline the travel booking process. It enables users to explore destinations, book flights, hotels, cruises, and vacation packages, while managing their trips, expenses, and profile settings in one place. The design emphasizes usability, responsive layouts, and engaging visuals to enhance the overall travel planning experience.
