@@ -9,6 +9,7 @@ The Travel Agency App is a modern and intuitive mobile and web interface designe
 
 ## Key Features
 1- Onboarding & Authentication – User-friendly sign-up, login, and password reset flows.
+
 2- Destination Search & Filtering – Browse and filter by location, category, and budget.
 3- Flight, Hotel & Cruise Booking – Integrated booking flows with detailed information and pricing.
 4- Vacation Packages – Pre-designed travel itineraries with special offers.
